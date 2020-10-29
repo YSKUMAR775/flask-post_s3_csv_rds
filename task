@@ -3,3 +3,4 @@ s3              : upload csv file and decode the data from s3
 rds             : insert the decoded data from s3
 
 return          : return list of data
+postman		: "file_path": "C:/Users/Hemanth Y/Desktop/weather.csv"
